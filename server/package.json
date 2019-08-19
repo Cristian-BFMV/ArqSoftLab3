@@ -1,0 +1,15 @@
+{
+  "name": "employee-server",
+  "version": "1.0.0",
+  "description": "gRPC y protobuffers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felipe Triana G",
+  "license": "ISC",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.5.1",
+    "grpc": "^1.22.2"
+  }
+}
